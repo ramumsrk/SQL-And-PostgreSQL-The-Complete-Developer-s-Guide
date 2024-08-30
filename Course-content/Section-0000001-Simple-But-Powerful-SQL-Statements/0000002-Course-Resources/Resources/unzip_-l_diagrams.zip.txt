@@ -1,0 +1,47 @@
+Archive:  /run/media/ramumsrk/1.0TiB/repositories/Database-Management-System/PostgreSQL/SQL-And-PostgreSQL-The-Complete-Developer-s-Guide/Course-content/Section-1-Simple-But-Powerful-SQL-Statements/2-Course-Resources/Resources/diagrams.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  10-26-2021 23:46   diagrams/
+        0  10-26-2021 23:46   diagrams/01/
+     6141  10-26-2021 23:46   diagrams/01/12.drawio
+   384462  10-26-2021 23:46   diagrams/01/24.drawio
+    11859  10-26-2021 23:46   diagrams/01/36.drawio
+     7035  10-26-2021 23:46   diagrams/01/28.drawio
+    11539  10-26-2021 23:46   diagrams/01/10.drawio
+    62951  10-26-2021 23:46   diagrams/01/02.drawio
+    33144  10-26-2021 23:46   diagrams/01/34.drawio
+    13483  10-26-2021 23:46   diagrams/01/38.drawio
+     5405  10-26-2021 23:46   diagrams/01/26.drawio
+    48725  10-26-2021 23:46   diagrams/01/01-insta.drawio
+     3996  10-26-2021 23:46   diagrams/01/22.drawio
+     9889  10-26-2021 23:46   diagrams/01/30.drawio
+  2568921  10-26-2021 23:46   diagrams/01/18.drawio
+    33600  10-26-2021 23:46   diagrams/01/06.drawio
+    16718  10-26-2021 23:46   diagrams/01/32.drawio
+     4096  10-26-2021 23:46   diagrams/01/20.drawio
+  1570209  10-26-2021 23:46   diagrams/01/16.drawio
+    22095  10-26-2021 23:46   diagrams/01/08.drawio
+   216292  10-26-2021 23:46   diagrams/01/04.drawio
+    58217  10-26-2021 23:46   diagrams/01/02-insta.drawio
+    34695  10-26-2021 23:46   diagrams/01/25.drawio
+    30503  10-26-2021 23:46   diagrams/01/29.drawio
+    24318  10-26-2021 23:46   diagrams/01/37.drawio
+    29715  10-26-2021 23:46   diagrams/01/01.drawio
+    21657  10-26-2021 23:46   diagrams/01/13.drawio
+    13716  10-26-2021 23:46   diagrams/01/35.drawio
+   670852  10-26-2021 23:46   diagrams/01/27.drawio
+     7876  10-26-2021 23:46   diagrams/01/11.drawio
+     9289  10-26-2021 23:46   diagrams/01/03.drawio
+    10899  10-26-2021 23:46   diagrams/01/07.drawio
+   597421  10-26-2021 23:46   diagrams/01/19.drawio
+      807  10-26-2021 23:46   diagrams/01/15.drawio
+   534918  10-26-2021 23:46   diagrams/01/23.drawio
+     9011  10-26-2021 23:46   diagrams/01/31.drawio
+    53365  10-26-2021 23:46   diagrams/01/09.drawio
+  2228767  10-26-2021 23:46   diagrams/01/17.drawio
+    16656  10-26-2021 23:46   diagrams/01/05.drawio
+  1269298  10-26-2021 23:46   diagrams/01/33.drawio
+    23109  10-26-2021 23:46   diagrams/01/14
+     9336  10-26-2021 23:46   diagrams/01/21.drawio
+---------                     -------
+ 10684985                     42 files
